@@ -1,14 +1,14 @@
-ipykernel
-os
-json
+# ipykernel
+# os
+# json
 numpy
 pandas
-requests
-beautifulsoup4
+# requests
+# beautifulsoup4
 nltk
 scikit-learn
 flask
 bokeh
 translators
-googlemaps
+# googlemaps
 sentence_transformers
