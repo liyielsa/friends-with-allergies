@@ -1,3 +1,5 @@
+## Tech stack: Python, Flask, NLP (NLTK, Sentence Transformers), Scikit-learn, Pandas, NumPy, HTML
+
 # Friends with Allergies
 
 Hi, we are *Friends with Allergies* team!
@@ -14,6 +16,8 @@ Here are the group members:
 
 FWA is an application designed for people with allergies or dietary restrictions find suitable restaurants in Helsinki, Finland. We scraped restaurants' information and their reviews from Quandoo, a popular restaurant reservation platform. It is difficult to find suitable restaurants based on allergies or dietary preferences, or get close-to-heart daily food recommendations. Our application fills this gap and offers even more! 
 Find foods and places that suit your gastronomical wishes and concerns using three types of search engines, explore maps and visualisations and do not worry about safety – our algorithm takes allergies seriously!
+
+**Tech stack:** Python • Flask • NLTK • Sentence Transformers • Scikit-learn • Pandas • NumPy • HTML
 
 ## Installation
 
