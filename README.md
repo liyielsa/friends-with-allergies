@@ -1,5 +1,3 @@
-## Tech stack: Python, Flask, NLP (NLTK, Sentence Transformers), Scikit-learn, Pandas, NumPy, HTML
-
 # Friends with Allergies
 
 Hi, we are *Friends with Allergies* team!
